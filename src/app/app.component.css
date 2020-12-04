@@ -1,0 +1,13 @@
+a{
+    color: rgb(255, 251, 2);
+    background-color: darkred;
+    border-radius: 15px;
+    background-size: 55px;
+    size: 55px;
+    font-size: 20px;
+    block-size: 55px;
+}
+strong
+{
+    font-size: 30px;
+}
